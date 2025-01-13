@@ -131,11 +131,11 @@
         android:id="@+id/signInBtn"
         android:layout_width="307dp"
         android:layout_height="60dp"
-        android:backgroundTint="#05AAFF"
+        android:backgroundTint="#D4B79C"
         android:textColor="?attr/colorOnPrimary"
         android:fontFamily="@font/montserrat"
         android:onClick="signIn"
-        android:shadowColor="#05AAFF"
+        android:shadowColor="#D4B79C"
         android:text="Sign In"
         android:textSize="25sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -144,8 +144,8 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/Password"
         app:layout_constraintVertical_bias="0.278"
-        app:rippleColor="#05AAFF"
-        app:strokeColor="#05AAFF"/>
+        app:rippleColor="#D4B79C"
+        app:strokeColor="#D4B79C"/>
 
     <TextView
         android:id="@+id/SignUP"
@@ -153,7 +153,7 @@
         android:layout_height="wrap_content"
         android:text="Sign Up!"
         android:textAlignment="center"
-        android:textColor="#05AAFF"
+        android:textColor="#472D1C"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

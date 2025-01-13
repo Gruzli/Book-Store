@@ -2,8 +2,8 @@
     <!-- Base application theme. -->
     <style name="Theme.MyBookstoreApp" parent="Theme.AppCompat.DayNight.DarkActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">@color/text_color_2</item>
-        <item name="colorPrimaryVariant">@color/switch_color</item>
+        <item name="colorPrimary">#664229</item>
+        <item name="colorPrimaryVariant">#472D1C</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>
@@ -14,5 +14,7 @@
         <!-- Customize your theme here. -->
         <item name="android:colorBackground">@color/background_color</item>
         <item name="colorOnBackground">@color/text_color</item>
+        <!-- Other theme attributes -->
+        <item name="android:navigationBarColor">#664229</item>
     </style>
 </resources>
